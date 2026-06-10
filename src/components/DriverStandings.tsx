@@ -3,7 +3,7 @@ import { Search, ArrowUpDown, Award, Trophy, Shield, HelpCircle, X } from 'lucid
 import { motion, AnimatePresence } from 'motion/react';
 import { DriverStanding } from '../types.js';
 import { getDriverMeta, getTeamColor, getOfficialTeamName } from '../utils/f1Data.js';
-import { TeamLogo, CountryFlag, DriverNumberBadge, DriverAvatar, DriverPortrait } from './F1Logos.js';
+import { TeamLogo, CountryFlag, DriverAvatar, DriverPortrait } from './F1Logos.js';
 
 interface DriverStandingsProps {
   standings: DriverStanding[];
@@ -143,7 +143,12 @@ export default function DriverStandings({ standings }: DriverStandingsProps) {
                             style={{ backgroundColor: driverColor }}
                           />
                           <DriverAvatar driverId={s.driver.driverId} constructorId={s.team.constructorId} className="w-7 h-7 sm:w-8 sm:h-8 flex-shrink-0" />
-                          <DriverNumberBadge number={s.driver.permanentNumber || '1'} constructorId={s.team.constructorId} className="w-5 h-5 sm:w-6 sm:h-6 flex-shrink-0 hidden sm:block" />
+                          <span
+                            className="text-2xl font-black italic tracking-tighter select-none font-mono flex-shrink-0 w-8 text-center hidden sm:block"
+                            style={{ color: driverColor }}
+                          >
+                            {s.driver.permanentNumber || '1'}
+                          </span>
                           <div>
                             <span className="font-extrabold text-white group-hover:text-red-500 transition-colors">
                               {s.driver.givenName} {s.driver.familyName}
@@ -197,7 +202,7 @@ export default function DriverStandings({ standings }: DriverStandingsProps) {
                   
                   {/* Large Stylized Driver Number (Official F1 Card Style) */}
                   <span 
-                    className="absolute right-4 bottom-2 text-7xl font-black italic tracking-tighter select-none opacity-20 font-mono transition-opacity duration-300 group-hover:opacity-30"
+                    className="absolute right-4 bottom-2 text-7xl font-black italic tracking-tighter select-none font-mono"
                     style={{ color: getTeamColor(selectedDriver.team.constructorId) }}
                   >
                     {selectedDriver.driver.permanentNumber}

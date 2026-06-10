@@ -185,7 +185,7 @@ export default function Dashboard({
                  {/* Full size Driver Portrait display */}
                  <div className="w-full flex justify-center bg-neutral-900/10 p-1 rounded-xl border border-neutral-900/40 overflow-hidden shadow-inner h-48 relative group">
                    <span 
-                     className="absolute right-4 bottom-2 text-7xl font-black italic tracking-tighter select-none opacity-20 font-mono transition-opacity duration-300 group-hover:opacity-30"
+                     className="absolute right-4 bottom-2 text-7xl font-black italic tracking-tighter select-none font-mono"
                      style={{ color: getTeamColor(driverLeader.team.constructorId) }}
                    >
                      {driverLeader.driver.permanentNumber}
