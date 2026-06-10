@@ -1,6 +1,7 @@
 import express from 'express';
 import path from 'path';
 import dotenv from 'dotenv';
+import fs from 'fs';
 import { createServer as createViteServer } from 'vite';
 import { f1Router } from './src/backend/presentation/F1ApiRouter.js';
 import { SyncService } from './src/backend/application/SyncService.js';
@@ -11,7 +12,7 @@ import { LiveTimingEngine } from './src/backend/application/LiveTimingEngine.js'
 dotenv.config({ path: '.env.local' });
 dotenv.config();
 
-const PORT = 3000;
+const PORT = process.env.PORT ? parseInt(process.env.PORT) : 3000;
 const app = express();
 
 app.use(express.json());
@@ -29,7 +30,7 @@ syncService.syncAll('current').then(() => {
 });
 
 // Configure Vite middleware or serve static files
-const isProduction = process.env.NODE_ENV === 'production';
+const isProduction = process.env.NODE_ENV === 'production' || fs.existsSync(path.join(process.cwd(), 'dist', 'index.html'));
 
 async function setupServer() {
   if (!isProduction) {
