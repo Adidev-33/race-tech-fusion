@@ -1,0 +1,112 @@
+[
+  {
+    "id": "9bd8d431-0a35-4f43-8930-9963e01cf70e",
+    "sessionKey": "8634",
+    "driverId": "max_verstappen",
+    "stopNumber": 1,
+    "lapNumber": 7,
+    "duration": "2.69",
+    "tyreCompound": "M",
+    "tyreAge": 7,
+    "isCompleted": true
+  },
+  {
+    "id": "aa92c940-007e-4684-af7a-f602210469c7",
+    "sessionKey": "8634",
+    "driverId": "sainz",
+    "stopNumber": 1,
+    "lapNumber": 7,
+    "duration": "3.17",
+    "tyreCompound": "M",
+    "tyreAge": 7,
+    "isCompleted": true
+  },
+  {
+    "id": "c72bdef2-66f2-499f-ae1e-673ed88e3e3c",
+    "sessionKey": "8634",
+    "driverId": "perez",
+    "stopNumber": 1,
+    "lapNumber": 7,
+    "duration": "2.87",
+    "tyreCompound": "M",
+    "tyreAge": 7,
+    "isCompleted": true
+  },
+  {
+    "id": "589418d9-bf40-4468-a07a-c3e305bf165f",
+    "sessionKey": "8634",
+    "driverId": "norris",
+    "stopNumber": 1,
+    "lapNumber": 8,
+    "duration": "3.49",
+    "tyreCompound": "M",
+    "tyreAge": 8,
+    "isCompleted": true
+  },
+  {
+    "id": "2a4bd716-d39b-4b4b-80c2-3d958984de69",
+    "sessionKey": "8634",
+    "driverId": "russell",
+    "stopNumber": 1,
+    "lapNumber": 8,
+    "duration": "2.64",
+    "tyreCompound": "M",
+    "tyreAge": 8,
+    "isCompleted": true
+  },
+  {
+    "id": "ccdca824-0f80-4b16-9e8d-05980759a7f6",
+    "sessionKey": "8634",
+    "driverId": "alonso",
+    "stopNumber": 1,
+    "lapNumber": 14,
+    "duration": "3.48",
+    "tyreCompound": "M",
+    "tyreAge": 14,
+    "isCompleted": true
+  },
+  {
+    "id": "7bd1280a-f105-4c8d-a9a6-954d119b57fe",
+    "sessionKey": "8634",
+    "driverId": "hulkenberg",
+    "stopNumber": 1,
+    "lapNumber": 17,
+    "duration": "2.14",
+    "tyreCompound": "M",
+    "tyreAge": 17,
+    "isCompleted": true
+  },
+  {
+    "id": "f90c2322-366a-4bfb-ba6a-cd082c0cc120",
+    "sessionKey": "8634",
+    "driverId": "hamilton",
+    "stopNumber": 1,
+    "lapNumber": 18,
+    "duration": "3.54",
+    "tyreCompound": "M",
+    "tyreAge": 18,
+    "isCompleted": true
+  },
+  {
+    "id": "58c91c13-57a1-4104-b137-05ea82d409f2",
+    "sessionKey": "8634",
+    "driverId": "charles_leclerc",
+    "stopNumber": 1,
+    "lapNumber": 23,
+    "duration": "3.18",
+    "tyreCompound": "M",
+    "tyreAge": 23,
+    "isCompleted": true
+  },
+  {
+    "id": "449f5200-a760-4e33-b989-23d71bebfdeb",
+    "sessionKey": "8634",
+    "driverId": "piastri",
+    "stopNumber": 1,
+    "lapNumber": 23,
+    "duration": "3.42",
+    "tyreCompound": "M",
+    "tyreAge": 23,
+    "isCompleted": true
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "id": "fce47a97-54cc-434d-be4f-aa1e33df403c",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:05:13.682Z",
+    "airTemp": 22.4,
+    "trackTemp": 34.1,
+    "humidity": 52,
+    "windSpeed": 12.5,
+    "rainfall": false
+  },
+  {
+    "id": "62515610-5478-4a98-9e19-493fd8ec72e0",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:05:31.759Z",
+    "airTemp": 22.4,
+    "trackTemp": 34.3,
+    "humidity": 51,
+    "windSpeed": 12.1,
+    "rainfall": false
+  },
+  {
+    "id": "3742b596-d377-42b9-991b-08a32c7f0404",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:05:49.816Z",
+    "airTemp": 22.5,
+    "trackTemp": 34,
+    "humidity": 51,
+    "windSpeed": 12.4,
+    "rainfall": false
+  },
+  {
+    "id": "50af4bdb-ab20-468d-8381-639cd105394a",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:06:07.860Z",
+    "airTemp": 22.3,
+    "trackTemp": 33.7,
+    "humidity": 50,
+    "windSpeed": 12.4,
+    "rainfall": false
+  },
+  {
+    "id": "0f78a91b-3e31-4274-a4f8-c69e7093b45f",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:06:25.902Z",
+    "airTemp": 22.1,
+    "trackTemp": 33.5,
+    "humidity": 49,
+    "windSpeed": 12.4,
+    "rainfall": false
+  },
+  {
+    "id": "815865be-22c7-4726-b1ff-dfc8b9660d88",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:06:43.982Z",
+    "airTemp": 22.2,
+    "trackTemp": 33.1,
+    "humidity": 49,
+    "windSpeed": 12.1,
+    "rainfall": false
+  },
+  {
+    "id": "2c16a1bc-ac58-45dd-87ba-05ca1952d87d",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:07:02.059Z",
+    "airTemp": 22.1,
+    "trackTemp": 32.9,
+    "humidity": 48,
+    "windSpeed": 11.7,
+    "rainfall": false
+  },
+  {
+    "id": "86973d5a-0f55-4d9f-bf20-5fa19656e7d4",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:07:20.143Z",
+    "airTemp": 22.1,
+    "trackTemp": 32.6,
+    "humidity": 48,
+    "windSpeed": 12.1,
+    "rainfall": false
+  },
+  {
+    "id": "d4fc05d5-c8c3-4a42-956f-ee2710432257",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:07:38.203Z",
+    "airTemp": 22,
+    "trackTemp": 32.4,
+    "humidity": 47,
+    "windSpeed": 11.6,
+    "rainfall": false
+  },
+  {
+    "id": "dbc79621-0eed-4bca-96f7-942f69b333e7",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:07:56.258Z",
+    "airTemp": 22.1,
+    "trackTemp": 32.2,
+    "humidity": 47,
+    "windSpeed": 11.7,
+    "rainfall": false
+  },
+  {
+    "id": "317f7df4-965e-4b95-9164-6f6ee6cbdf35",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:08:14.332Z",
+    "airTemp": 21.9,
+    "trackTemp": 32.3,
+    "humidity": 47,
+    "windSpeed": 12,
+    "rainfall": false
+  },
+  {
+    "id": "6aac8b6c-eb87-45cf-af2f-6d1d53326d3d",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:08:32.401Z",
+    "airTemp": 22,
+    "trackTemp": 32.1,
+    "humidity": 46,
+    "windSpeed": 11.5,
+    "rainfall": false
+  },
+  {
+    "id": "0485a804-bb1a-4aea-aa9c-9b8c41a421f5",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:08:50.473Z",
+    "airTemp": 22.1,
+    "trackTemp": 31.8,
+    "humidity": 45,
+    "windSpeed": 11.4,
+    "rainfall": false
+  },
+  {
+    "id": "252318ac-f565-4fbd-bddd-7b775ea9cfd9",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:09:08.541Z",
+    "airTemp": 22.3,
+    "trackTemp": 31.9,
+    "humidity": 45,
+    "windSpeed": 11.4,
+    "rainfall": false
+  },
+  {
+    "id": "65a6b7dd-02d8-4efd-b0e6-815c7a1f21cf",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:09:26.620Z",
+    "airTemp": 22.2,
+    "trackTemp": 32.1,
+    "humidity": 44,
+    "windSpeed": 11.4,
+    "rainfall": false
+  },
+  {
+    "id": "699a57d8-afb2-475d-902b-69b963c16287",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:09:44.716Z",
+    "airTemp": 22.3,
+    "trackTemp": 31.8,
+    "humidity": 44,
+    "windSpeed": 11.4,
+    "rainfall": false
+  },
+  {
+    "id": "47ddfc4a-f971-4a96-bbc2-f06952585f57",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:10:02.758Z",
+    "airTemp": 22.2,
+    "trackTemp": 31.9,
+    "humidity": 44,
+    "windSpeed": 11.8,
+    "rainfall": false
+  },
+  {
+    "id": "e7ca77c7-6a5c-43d4-b97a-c218d42ac681",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:10:20.821Z",
+    "airTemp": 22.4,
+    "trackTemp": 32,
+    "humidity": 44,
+    "windSpeed": 12.2,
+    "rainfall": false
+  },
+  {
+    "id": "c522b5c7-78ad-434f-8d88-b6b1ecc3ac7a",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:10:38.892Z",
+    "airTemp": 22.5,
+    "trackTemp": 32,
+    "humidity": 43,
+    "windSpeed": 12.1,
+    "rainfall": false
+  },
+  {
+    "id": "6dd1c25f-1c64-460b-927a-13736664df75",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:10:56.949Z",
+    "airTemp": 22.5,
+    "trackTemp": 31.7,
+    "humidity": 42,
+    "windSpeed": 12.1,
+    "rainfall": false
+  },
+  {
+    "id": "c4de5386-9b2f-4615-a904-8da1a7e7a9cf",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:11:15.015Z",
+    "airTemp": 22.5,
+    "trackTemp": 31.5,
+    "humidity": 41,
+    "windSpeed": 11.9,
+    "rainfall": false
+  },
+  {
+    "id": "9ed9cbaf-d61e-4c02-8613-7ad39670d931",
+    "sessionKey": "8713",
+    "timestamp": "2026-06-10T13:28:27.478Z",
+    "airTemp": 22.4,
+    "trackTemp": 34.1,
+    "humidity": 52,
+    "windSpeed": 12.5,
+    "rainfall": false
+  },
+  {
+    "id": "db7f8099-7699-45e3-bff2-0692b0f49917",
+    "sessionKey": "8713",
+    "timestamp": "2026-06-10T13:28:45.601Z",
+    "airTemp": 22.2,
+    "trackTemp": 33.9,
+    "humidity": 51,
+    "windSpeed": 13,
+    "rainfall": false
+  },
+  {
+    "id": "a1a4d3ce-5a0f-4011-a157-6692dbe2c1a4",
+    "sessionKey": "7725",
+    "timestamp": "2026-06-10T13:37:53.605Z",
+    "airTemp": 22.4,
+    "trackTemp": 34.1,
+    "humidity": 52,
+    "windSpeed": 12.5,
+    "rainfall": false
+  },
+  {
+    "id": "dc0de82e-dd4f-4dd9-93f3-0858f65de6e3",
+    "sessionKey": "9093",
+    "timestamp": "2026-06-10T14:48:59.095Z",
+    "airTemp": 22.4,
+    "trackTemp": 34.1,
+    "humidity": 52,
+    "windSpeed": 12.5,
+    "rainfall": false
+  },
+  {
+    "id": "bc4f5309-285f-4f35-8368-62c2ca2b38e6",
+    "sessionKey": "8583",
+    "timestamp": "2026-06-10T15:35:31.589Z",
+    "airTemp": 22.4,
+    "trackTemp": 34.1,
+    "humidity": 52,
+    "windSpeed": 12.5,
+    "rainfall": false
+  },
+  {
+    "id": "661f8e97-7291-4d02-a432-ee28ee018225",
+    "sessionKey": "8583",
+    "timestamp": "2026-06-10T15:35:49.707Z",
+    "airTemp": 22.3,
+    "trackTemp": 33.9,
+    "humidity": 52,
+    "windSpeed": 13,
+    "rainfall": false
+  },
+  {
+    "id": "247e0a62-cff5-4d1a-b647-c0cd0e0f3805",
+    "sessionKey": "5803",
+    "timestamp": "2026-06-10T15:35:58.279Z",
+    "airTemp": 22.4,
+    "trackTemp": 34.1,
+    "humidity": 52,
+    "windSpeed": 12.5,
+    "rainfall": false
+  },
+  {
+    "id": "0bc70aff-a1b4-4c41-82f8-7e1c4e0fa4f6",
+    "sessionKey": "5803",
+    "timestamp": "2026-06-10T15:36:16.397Z",
+    "airTemp": 22.3,
+    "trackTemp": 33.7,
+    "humidity": 52,
+    "windSpeed": 12.4,
+    "rainfall": false
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "Race Tech Fusion",
+  "description": "Enterprise-grade Formula 1 intelligence platform featuring real-time telemetry, Monte Carlo season forecasts, thermal tyre wear models, and MLOps hyperparameter registries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

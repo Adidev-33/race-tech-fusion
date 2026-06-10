@@ -1,0 +1,56 @@
+[
+  {
+    "id": "efcbe75f-c929-4ae2-ba06-0196dc669ff2",
+    "raceId": "current-gp",
+    "sessionKey": "8634",
+    "name": "Grand Prix Race Operations",
+    "sessionType": "Race",
+    "status": "active",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "73d0bb67-dca6-4d73-96cb-15a42cce01ef",
+    "raceId": "current-gp",
+    "sessionKey": "8713",
+    "name": "Grand Prix Race Operations",
+    "sessionType": "Race",
+    "status": "completed",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "9c885f83-bb47-47ff-b7c6-ce6891e2b6a0",
+    "raceId": "current-gp",
+    "sessionKey": "7725",
+    "name": "Qualifying Telemetry Stream",
+    "sessionType": "Qualifying",
+    "status": "completed",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "2fab94e4-b9d6-4024-ab39-0ab46db371f1",
+    "raceId": "current-gp",
+    "sessionKey": "9093",
+    "name": "Grand Prix Race Operations",
+    "sessionType": "Race",
+    "status": "completed",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "574ab8f6-3692-4c4d-af3b-85eb8f6d320e",
+    "raceId": "current-gp",
+    "sessionKey": "8583",
+    "name": "Grand Prix Race Operations",
+    "sessionType": "Race",
+    "status": "active",
+    "date": "2026-06-10"
+  },
+  {
+    "id": "7ba2a7af-10ed-4b8b-9087-f922700302bd",
+    "raceId": "current-gp",
+    "sessionKey": "5803",
+    "name": "Grand Prix Race Operations",
+    "sessionType": "Race",
+    "status": "active",
+    "date": "2026-06-10"
+  }
+]

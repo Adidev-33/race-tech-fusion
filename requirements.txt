@@ -1,0 +1,29 @@
+# Race Tech Fusion - Machine Learning & Analytics Stack Dependencies
+# Python requirement equivalents for the F1 Prediction, Ensemble, and Optimization Suite
+
+# Core Machine Learning & Statistical Engines
+scikit-learn>=1.4.0
+xgboost>=2.0.3
+lightgbm>=4.3.0
+catboost>=1.2.3
+
+# Optimization & Hyperparameter Tuning
+optuna>=3.6.0
+
+# Scientific Computing & Data Processing
+numpy>=1.26.0
+pandas>=2.2.0
+scipy>=1.12.0
+
+# AI Models & Large Language Models
+google-genai>=0.1.0
+
+# API Development & Microservices
+fastapi>=0.110.0
+uvicorn>=0.28.0
+pydantic>=2.6.0
+
+# General Utilities
+python-dotenv>=1.0.1
+requests>=2.31.0
+websockets>=12.0

@@ -1,0 +1,520 @@
+[
+  {
+    "id": "65f91e04-7e80-4d6a-ab89-bc1d4fb47466",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:05:13.682Z",
+    "message": "TRACK TEMPERATURE: 34.1°C | RISK OF RAIN: 10%",
+    "flag": "None"
+  },
+  {
+    "id": "52ca66b2-5514-4deb-9e05-db060562b680",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:05:13.682Z",
+    "message": "GREEN FLAG - SESSION ACTIVE",
+    "flag": "Green"
+  },
+  {
+    "id": "1eabf18d-57fa-4980-b998-170c2ad69793",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:05:48.313Z",
+    "message": "SAFETY CAR DEPLOYED (SC)",
+    "flag": "SafetyCar"
+  },
+  {
+    "id": "261ac69e-b086-4b48-8222-daac025e57d7",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:05:57.326Z",
+    "message": "TRACK CLEAR - GREEN FLAG IN ALL SECTORS",
+    "flag": "Green"
+  },
+  {
+    "id": "f2ab709e-1dc1-4d30-90dc-bdca72813588",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:06:03.336Z",
+    "message": "VIRTUAL SAFETY CAR DEPLOYED (VSC)",
+    "flag": "VSC"
+  },
+  {
+    "id": "f33d6eb8-0edb-4d3d-af92-f9a8f664828e",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:06:12.339Z",
+    "message": "TRACK CLEAR - GREEN FLAG IN ALL SECTORS",
+    "flag": "Green"
+  },
+  {
+    "id": "f99bbded-c1d5-4383-8c75-c2a1fc8f83a1",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:06:34.932Z",
+    "message": "VIRTUAL SAFETY CAR DEPLOYED (VSC)",
+    "flag": "VSC"
+  },
+  {
+    "id": "3ac0bfb9-c951-47da-8797-9871184d7df6",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:06:36.451Z",
+    "message": "VIRTUAL SAFETY CAR DEPLOYED (VSC)",
+    "flag": "VSC"
+  },
+  {
+    "id": "2eea92a6-4f7c-4927-9bb5-46846729fd4c",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:06:37.952Z",
+    "message": "PIT STOP: Driver MAX_VERSTAPPEN changed to Medium compound.",
+    "flag": "None"
+  },
+  {
+    "id": "fded8553-f85a-4f28-acf4-e5d4be474409",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:06:37.952Z",
+    "message": "PIT STOP: Driver SAINZ changed to Medium compound.",
+    "flag": "None"
+  },
+  {
+    "id": "24ee9d1c-7015-4423-9883-d06c14a8b01e",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:06:37.952Z",
+    "message": "PIT STOP: Driver PEREZ changed to Medium compound.",
+    "flag": "None"
+  },
+  {
+    "id": "adf8bf40-2185-443f-990b-60d920a79684",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:06:43.934Z",
+    "message": "TRACK CLEAR - GREEN FLAG IN ALL SECTORS",
+    "flag": "Green"
+  },
+  {
+    "id": "7c6c9e07-3db2-44a3-bf2e-d51b78ad78f5",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:06:45.465Z",
+    "message": "TRACK CLEAR - GREEN FLAG IN ALL SECTORS",
+    "flag": "Green"
+  },
+  {
+    "id": "a938884a-14ef-45a1-8f09-738f5f7a1f1d",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:06:50.003Z",
+    "message": "PIT STOP: Driver NORRIS changed to Medium compound.",
+    "flag": "None"
+  },
+  {
+    "id": "341bd46e-9a7e-4e95-8a45-ec1d6a3e8ec3",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:06:50.003Z",
+    "message": "PIT STOP: Driver RUSSELL changed to Medium compound.",
+    "flag": "None"
+  },
+  {
+    "id": "7259c262-43c9-4c9d-b9e8-81b9be28d8c7",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:06:53.013Z",
+    "message": "SAFETY CAR DEPLOYED (SC)",
+    "flag": "SafetyCar"
+  },
+  {
+    "id": "c36b531c-c77d-4e80-a6c7-d3521e610fe0",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:07:02.026Z",
+    "message": "TRACK CLEAR - GREEN FLAG IN ALL SECTORS",
+    "flag": "Green"
+  },
+  {
+    "id": "996c7b18-4237-4034-b28a-71ad6cce8c3a",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:07:17.135Z",
+    "message": "DOUBLE YELLOW IN SECTOR 1 - INCIDENT DETECTED",
+    "flag": "DoubleYellow"
+  },
+  {
+    "id": "be3306a1-79a1-4a44-b85e-98ead294aefe",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:07:18.637Z",
+    "message": "VIRTUAL SAFETY CAR DEPLOYED (VSC)",
+    "flag": "VSC"
+  },
+  {
+    "id": "dc22d779-aef2-4600-af17-1b771388bbab",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:07:21.658Z",
+    "message": "VIRTUAL SAFETY CAR DEPLOYED (VSC)",
+    "flag": "VSC"
+  },
+  {
+    "id": "8a27ceaa-cc36-4c00-89eb-323aacd98f17",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:07:26.137Z",
+    "message": "TRACK CLEAR - GREEN FLAG IN ALL SECTORS",
+    "flag": "Green"
+  },
+  {
+    "id": "3244f31d-bd44-487e-a5a6-1a4ca4a60c35",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:07:27.649Z",
+    "message": "TRACK CLEAR - GREEN FLAG IN ALL SECTORS",
+    "flag": "Green"
+  },
+  {
+    "id": "6519011f-e8e0-48d4-8c5c-02c78631b53b",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:07:30.668Z",
+    "message": "TRACK CLEAR - GREEN FLAG IN ALL SECTORS",
+    "flag": "Green"
+  },
+  {
+    "id": "89f557ac-055b-4ea9-9c9b-b2b97b5d759d",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:07:42.724Z",
+    "message": "VIRTUAL SAFETY CAR DEPLOYED (VSC)",
+    "flag": "VSC"
+  },
+  {
+    "id": "18ecbd8e-f8c1-4923-bfcd-f98b6da08acf",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:07:51.725Z",
+    "message": "TRACK CLEAR - GREEN FLAG IN ALL SECTORS",
+    "flag": "Green"
+  },
+  {
+    "id": "48516a81-955d-46de-b075-42455e408e88",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:07:59.261Z",
+    "message": "DOUBLE YELLOW IN SECTOR 1 - INCIDENT DETECTED",
+    "flag": "DoubleYellow"
+  },
+  {
+    "id": "d0a0f2d4-3a40-4116-9260-db4a622f1e46",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:08:02.274Z",
+    "message": "PIT STOP: Driver ALONSO changed to Medium compound.",
+    "flag": "None"
+  },
+  {
+    "id": "565ce9d9-7ba0-473b-993d-a6a34c29a4ee",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:08:05.288Z",
+    "message": "SAFETY CAR DEPLOYED (SC)",
+    "flag": "SafetyCar"
+  },
+  {
+    "id": "bbce8f4d-7458-4dd8-a90c-084e956e3d74",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:08:08.262Z",
+    "message": "TRACK CLEAR - GREEN FLAG IN ALL SECTORS",
+    "flag": "Green"
+  },
+  {
+    "id": "4e9af2f1-f525-4795-acd0-7096834e2fe3",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:08:12.819Z",
+    "message": "DOUBLE YELLOW IN SECTOR 1 - INCIDENT DETECTED",
+    "flag": "DoubleYellow"
+  },
+  {
+    "id": "c9fbf720-5f0d-4a2e-9e8c-dabd8a5fb61c",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:08:14.288Z",
+    "message": "TRACK CLEAR - GREEN FLAG IN ALL SECTORS",
+    "flag": "Green"
+  },
+  {
+    "id": "7d600e18-9d33-4359-ab1a-56accbf1cad5",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:08:21.828Z",
+    "message": "TRACK CLEAR - GREEN FLAG IN ALL SECTORS",
+    "flag": "Green"
+  },
+  {
+    "id": "600611a5-d116-40b0-a730-1495f68c44fc",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:08:38.423Z",
+    "message": "PIT STOP: Driver HULKENBERG changed to Medium compound.",
+    "flag": "None"
+  },
+  {
+    "id": "dbbb8d86-afff-4fb0-8533-f68f2f47aab3",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:08:50.473Z",
+    "message": "PIT STOP: Driver HAMILTON changed to Medium compound.",
+    "flag": "None"
+  },
+  {
+    "id": "46e1c5ac-911b-400f-a489-47eb5929d2e3",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:09:04.023Z",
+    "message": "YELLOW FLAG IN SECTOR 2 - HAZARD REPORTED",
+    "flag": "Yellow"
+  },
+  {
+    "id": "20e4ce8f-4c04-4bad-8584-18d419368d59",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:09:13.027Z",
+    "message": "TRACK CLEAR - GREEN FLAG IN ALL SECTORS",
+    "flag": "Green"
+  },
+  {
+    "id": "bbf9e620-e60b-4b04-894b-059f6fd029ce",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:09:50.734Z",
+    "message": "PIT STOP: Driver CHARLES_LECLERC changed to Medium compound.",
+    "flag": "None"
+  },
+  {
+    "id": "baf2f1ac-065d-480a-82e8-6255f8ae8829",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:09:50.734Z",
+    "message": "PIT STOP: Driver PIASTRI changed to Medium compound.",
+    "flag": "None"
+  },
+  {
+    "id": "1428e248-adff-4029-9eae-8a518b51c70e",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:10:02.758Z",
+    "message": "DOUBLE YELLOW IN SECTOR 1 - INCIDENT DETECTED",
+    "flag": "DoubleYellow"
+  },
+  {
+    "id": "266db1a5-acb2-4f4b-a51c-145e2c63d717",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:10:05.757Z",
+    "message": "YELLOW FLAG IN SECTOR 2 - HAZARD REPORTED",
+    "flag": "Yellow"
+  },
+  {
+    "id": "36ef109b-b5e3-44ef-b171-a72595508a0f",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:10:10.267Z",
+    "message": "VIRTUAL SAFETY CAR DEPLOYED (VSC)",
+    "flag": "VSC"
+  },
+  {
+    "id": "5e1483f5-8009-4fb6-a5d6-4f70dbdb5593",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:10:11.758Z",
+    "message": "TRACK CLEAR - GREEN FLAG IN ALL SECTORS",
+    "flag": "Green"
+  },
+  {
+    "id": "e9c7c80f-b506-49f1-a1f9-63f18895f42d",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:10:14.759Z",
+    "message": "TRACK CLEAR - GREEN FLAG IN ALL SECTORS",
+    "flag": "Green"
+  },
+  {
+    "id": "c97be662-b92e-4db0-9501-cfdffd301f40",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:10:19.268Z",
+    "message": "TRACK CLEAR - GREEN FLAG IN ALL SECTORS",
+    "flag": "Green"
+  },
+  {
+    "id": "029b543d-5fa7-4e43-89e3-7c42257bb3c0",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:10:23.829Z",
+    "message": "YELLOW FLAG IN SECTOR 2 - HAZARD REPORTED",
+    "flag": "Yellow"
+  },
+  {
+    "id": "22f12038-be51-4c6b-889f-8fe94b01cf3f",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:10:25.332Z",
+    "message": "SAFETY CAR DEPLOYED (SC)",
+    "flag": "SafetyCar"
+  },
+  {
+    "id": "7b391adb-7358-4178-a862-5520d3f5a9c9",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:10:32.843Z",
+    "message": "TRACK CLEAR - GREEN FLAG IN ALL SECTORS",
+    "flag": "Green"
+  },
+  {
+    "id": "923e8496-f935-4f74-b112-79c7fa9770c1",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:10:34.334Z",
+    "message": "TRACK CLEAR - GREEN FLAG IN ALL SECTORS",
+    "flag": "Green"
+  },
+  {
+    "id": "a95ecd01-cae5-48d2-b934-319b046eb9b9",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:10:41.903Z",
+    "message": "DOUBLE YELLOW IN SECTOR 1 - INCIDENT DETECTED",
+    "flag": "DoubleYellow"
+  },
+  {
+    "id": "42e50c8d-feaf-4f02-8045-95e9adafee81",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:10:50.914Z",
+    "message": "TRACK CLEAR - GREEN FLAG IN ALL SECTORS",
+    "flag": "Green"
+  },
+  {
+    "id": "2d15218f-10b8-4c74-9021-7df543886f0d",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:10:50.929Z",
+    "message": "YELLOW FLAG IN SECTOR 2 - HAZARD REPORTED",
+    "flag": "Yellow"
+  },
+  {
+    "id": "0dee89ac-adaf-4ad2-9a3d-9e04d7daff14",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:10:53.946Z",
+    "message": "VIRTUAL SAFETY CAR DEPLOYED (VSC)",
+    "flag": "VSC"
+  },
+  {
+    "id": "a51b6747-dffa-4f67-acef-193a365360f2",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:10:59.942Z",
+    "message": "TRACK CLEAR - GREEN FLAG IN ALL SECTORS",
+    "flag": "Green"
+  },
+  {
+    "id": "f1410887-c1e5-43b1-ab15-e5c17eb67149",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:11:02.964Z",
+    "message": "TRACK CLEAR - GREEN FLAG IN ALL SECTORS",
+    "flag": "Green"
+  },
+  {
+    "id": "51a829a5-0f79-4799-bbf3-83613e37ae5e",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:11:15.015Z",
+    "message": "DOUBLE YELLOW IN SECTOR 1 - INCIDENT DETECTED",
+    "flag": "DoubleYellow"
+  },
+  {
+    "id": "429aefdd-7a20-4d7b-ac47-7018321ed612",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:11:24.017Z",
+    "message": "TRACK CLEAR - GREEN FLAG IN ALL SECTORS",
+    "flag": "Green"
+  },
+  {
+    "id": "a64b7aa8-4368-421c-983d-555534271ab1",
+    "sessionKey": "8634",
+    "timestamp": "2026-06-10T13:11:25.563Z",
+    "message": "DOUBLE YELLOW IN SECTOR 1 - INCIDENT DETECTED",
+    "flag": "DoubleYellow"
+  },
+  {
+    "id": "cb7af4f6-11fc-4100-a2da-305c265f2897",
+    "sessionKey": "8713",
+    "timestamp": "2026-06-10T13:28:27.478Z",
+    "message": "TRACK TEMPERATURE: 34.1°C | RISK OF RAIN: 10%",
+    "flag": "None"
+  },
+  {
+    "id": "d445e1d2-3d9b-455f-8846-e6c080302967",
+    "sessionKey": "8713",
+    "timestamp": "2026-06-10T13:28:27.478Z",
+    "message": "GREEN FLAG - SESSION ACTIVE",
+    "flag": "Green"
+  },
+  {
+    "id": "5bec153c-af8f-4600-ab93-bf6ed8087a30",
+    "sessionKey": "8713",
+    "timestamp": "2026-06-10T13:28:38.069Z",
+    "message": "VIRTUAL SAFETY CAR DEPLOYED (VSC)",
+    "flag": "VSC"
+  },
+  {
+    "id": "5ab98324-bde3-4f9c-b0b8-6ff563936065",
+    "sessionKey": "8713",
+    "timestamp": "2026-06-10T13:28:47.073Z",
+    "message": "TRACK CLEAR - GREEN FLAG IN ALL SECTORS",
+    "flag": "Green"
+  },
+  {
+    "id": "3a55969d-a2ea-47cf-bcf6-f4fc652eb321",
+    "sessionKey": "7725",
+    "timestamp": "2026-06-10T13:37:53.605Z",
+    "message": "TRACK TEMPERATURE: 34.1°C | RISK OF RAIN: 10%",
+    "flag": "None"
+  },
+  {
+    "id": "f6869a8f-c002-4838-b0a2-ce135fb817d1",
+    "sessionKey": "7725",
+    "timestamp": "2026-06-10T13:37:53.605Z",
+    "message": "GREEN FLAG - SESSION ACTIVE",
+    "flag": "Green"
+  },
+  {
+    "id": "02ac092f-d141-4351-9944-593c02de0f7b",
+    "sessionKey": "9093",
+    "timestamp": "2026-06-10T14:48:59.095Z",
+    "message": "TRACK TEMPERATURE: 34.1°C | RISK OF RAIN: 10%",
+    "flag": "None"
+  },
+  {
+    "id": "29d1503b-b2c2-4002-8dcc-4062d7d21952",
+    "sessionKey": "9093",
+    "timestamp": "2026-06-10T14:48:59.095Z",
+    "message": "GREEN FLAG - SESSION ACTIVE",
+    "flag": "Green"
+  },
+  {
+    "id": "2410c76e-d8b3-4d31-b1d3-831661558ffe",
+    "sessionKey": "9093",
+    "timestamp": "2026-06-10T14:49:02.151Z",
+    "message": "VIRTUAL SAFETY CAR DEPLOYED (VSC)",
+    "flag": "VSC"
+  },
+  {
+    "id": "c6108a0b-062b-4ce4-80fd-fa9c10d3613b",
+    "sessionKey": "9093",
+    "timestamp": "2026-06-10T14:49:11.157Z",
+    "message": "TRACK CLEAR - GREEN FLAG IN ALL SECTORS",
+    "flag": "Green"
+  },
+  {
+    "id": "f48f5895-0f28-4fa9-b6d7-62fc3809b225",
+    "sessionKey": "8583",
+    "timestamp": "2026-06-10T15:35:31.589Z",
+    "message": "TRACK TEMPERATURE: 34.1°C | RISK OF RAIN: 10%",
+    "flag": "None"
+  },
+  {
+    "id": "b82cc652-b7a8-4ba4-900e-647459503885",
+    "sessionKey": "8583",
+    "timestamp": "2026-06-10T15:35:31.589Z",
+    "message": "GREEN FLAG - SESSION ACTIVE",
+    "flag": "Green"
+  },
+  {
+    "id": "f4fb6879-110d-4105-8ee7-eaa26cd1318e",
+    "sessionKey": "8583",
+    "timestamp": "2026-06-10T15:35:49.707Z",
+    "message": "VIRTUAL SAFETY CAR DEPLOYED (VSC)",
+    "flag": "VSC"
+  },
+  {
+    "id": "919ddbd0-8c2f-4c72-959f-f2c59c1de3e4",
+    "sessionKey": "5803",
+    "timestamp": "2026-06-10T15:35:58.279Z",
+    "message": "TRACK TEMPERATURE: 34.1°C | RISK OF RAIN: 10%",
+    "flag": "None"
+  },
+  {
+    "id": "2726c9f2-5eb0-4fda-88fe-168e88c0dc0c",
+    "sessionKey": "5803",
+    "timestamp": "2026-06-10T15:35:58.279Z",
+    "message": "GREEN FLAG - SESSION ACTIVE",
+    "flag": "Green"
+  },
+  {
+    "id": "74086b54-32bf-4cc1-9759-a857fc817765",
+    "sessionKey": "8583",
+    "timestamp": "2026-06-10T15:35:58.706Z",
+    "message": "TRACK CLEAR - GREEN FLAG IN ALL SECTORS",
+    "flag": "Green"
+  },
+  {
+    "id": "50860247-0ca5-4ece-94a3-69d5d5dcfd97",
+    "sessionKey": "5803",
+    "timestamp": "2026-06-10T15:36:19.403Z",
+    "message": "DOUBLE YELLOW IN SECTOR 1 - INCIDENT DETECTED",
+    "flag": "DoubleYellow"
+  }
+]
