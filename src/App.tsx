@@ -535,7 +535,6 @@ export default function App() {
               &copy; 2026 Race Tech Fusion. Full data sourced under Jolpica &amp; Ergast developer terms.
             </div>
             <div className="flex items-center gap-3 sm:gap-4 flex-wrap justify-center">
-              <span className="hidden sm:inline">PORT: 3000 (INGRESS ROUTE OK)</span>
               <span className="text-neutral-600 hidden sm:inline">|</span>
               <span className="text-emerald-500 font-bold flex items-center gap-1">
                 <CheckCircle2 className="w-3.5 h-3.5 text-emerald-500" /> FULL ARCHITECTURE ONLINE
