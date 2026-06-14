@@ -108,5 +108,115 @@
     "tyreCompound": "M",
     "tyreAge": 23,
     "isCompleted": true
+  },
+  {
+    "id": "8ed77aad-d269-430b-9d5e-b4631559c9aa",
+    "sessionKey": "2432",
+    "driverId": "norris",
+    "stopNumber": 1,
+    "lapNumber": 6,
+    "duration": "3.50",
+    "tyreCompound": "M",
+    "tyreAge": 6,
+    "isCompleted": true
+  },
+  {
+    "id": "51fe67f8-6954-49b5-81b2-23df2a27c056",
+    "sessionKey": "2432",
+    "driverId": "gasly",
+    "stopNumber": 1,
+    "lapNumber": 7,
+    "duration": "2.71",
+    "tyreCompound": "M",
+    "tyreAge": 7,
+    "isCompleted": true
+  },
+  {
+    "id": "a1fc0a97-8221-4a1d-8e2a-c96e3e2e5a86",
+    "sessionKey": "2432",
+    "driverId": "lawson",
+    "stopNumber": 1,
+    "lapNumber": 7,
+    "duration": "3.15",
+    "tyreCompound": "M",
+    "tyreAge": 7,
+    "isCompleted": true
+  },
+  {
+    "id": "268cd780-64b6-4453-8c01-ebc2959ffee9",
+    "sessionKey": "2432",
+    "driverId": "hadjar",
+    "stopNumber": 1,
+    "lapNumber": 8,
+    "duration": "2.21",
+    "tyreCompound": "M",
+    "tyreAge": 8,
+    "isCompleted": true
+  },
+  {
+    "id": "e3b60233-f933-49c6-ba44-6431c94c514e",
+    "sessionKey": "2432",
+    "driverId": "antonelli",
+    "stopNumber": 1,
+    "lapNumber": 9,
+    "duration": "3.12",
+    "tyreCompound": "M",
+    "tyreAge": 9,
+    "isCompleted": true
+  },
+  {
+    "id": "4e3010f5-1403-4218-80b3-be7ffc9ea076",
+    "sessionKey": "2432",
+    "driverId": "leclerc",
+    "stopNumber": 1,
+    "lapNumber": 9,
+    "duration": "2.44",
+    "tyreCompound": "M",
+    "tyreAge": 9,
+    "isCompleted": true
+  },
+  {
+    "id": "3a8c7f27-6a21-451e-b1b7-4a19180dde2a",
+    "sessionKey": "2432",
+    "driverId": "hamilton",
+    "stopNumber": 1,
+    "lapNumber": 10,
+    "duration": "3.09",
+    "tyreCompound": "M",
+    "tyreAge": 10,
+    "isCompleted": true
+  },
+  {
+    "id": "43da87e4-a939-43d6-bbb5-dd7df9337f1a",
+    "sessionKey": "2432",
+    "driverId": "russell",
+    "stopNumber": 1,
+    "lapNumber": 15,
+    "duration": "3.28",
+    "tyreCompound": "M",
+    "tyreAge": 15,
+    "isCompleted": true
+  },
+  {
+    "id": "222a98eb-c2bd-461e-a109-084584c444ac",
+    "sessionKey": "2432",
+    "driverId": "piastri",
+    "stopNumber": 1,
+    "lapNumber": 22,
+    "duration": "3.56",
+    "tyreCompound": "M",
+    "tyreAge": 22,
+    "isCompleted": true
+  },
+  {
+    "id": "66ec0baf-0287-4d73-a7d3-08a246dbdeca",
+    "sessionKey": "2432",
+    "driverId": "max_verstappen",
+    "stopNumber": 1,
+    "lapNumber": 32,
+    "duration": "3.05",
+    "tyreCompound": "M",
+    "tyreAge": 32,
+    "isCompleted": true
   }
 ]

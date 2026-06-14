@@ -469,5 +469,737 @@
     "timestamp": "2026-06-10T15:36:19.403Z",
     "eventType": "Penalty",
     "detail": "DOUBLE YELLOW IN SECTOR 1 - INCIDENT DETECTED"
+  },
+  {
+    "id": "a1e6b3bc-5af5-4752-af22-b31445d07b4c",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:01:07.197Z",
+    "eventType": "SessionStart",
+    "detail": "Race session is officially declared green."
+  },
+  {
+    "id": "6b02f188-2931-4a21-a0f2-da2dd97092b4",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:01:23.795Z",
+    "eventType": "Penalty",
+    "detail": "DOUBLE YELLOW IN SECTOR 1 - INCIDENT DETECTED"
+  },
+  {
+    "id": "e98da6fb-bc88-4be0-839f-ff459143e68a",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:01:31.313Z",
+    "eventType": "TrackLimit",
+    "driverId": "max_verstappen",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "be577583-b4d7-4ebf-9d5e-189cd4ab8a3f",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:01:35.836Z",
+    "eventType": "Penalty",
+    "detail": "DOUBLE YELLOW IN SECTOR 1 - INCIDENT DETECTED"
+  },
+  {
+    "id": "de69f6b6-aa27-4250-a3d0-2a76e574d69f",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:01:50.897Z",
+    "eventType": "Crash",
+    "detail": "SAFETY CAR DEPLOYED (SC)"
+  },
+  {
+    "id": "4a562ebf-03ad-4818-8af5-7700843ace1f",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:02:07.483Z",
+    "eventType": "TrackLimit",
+    "driverId": "norris",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "977257e2-4285-4676-bfb6-613f0653784d",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:02:19.531Z",
+    "eventType": "Investigate",
+    "driverId": "norris",
+    "detail": "Speeding limit validation checked at Pit entry box."
+  },
+  {
+    "id": "9ccb9abc-5899-4ca5-b38a-80c220afaf85",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:02:19.531Z",
+    "eventType": "TrackLimit",
+    "driverId": "antonelli",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "b7d00165-b49a-4334-bc34-25d822f3ef57",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:02:25.544Z",
+    "eventType": "Penalty",
+    "detail": "VIRTUAL SAFETY CAR DEPLOYED (VSC)"
+  },
+  {
+    "id": "b435fd32-fd1f-4fd5-aab7-2237dd29ebbe",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:02:31.593Z",
+    "eventType": "Investigate",
+    "driverId": "gasly",
+    "detail": "Speeding limit validation checked at Pit entry box."
+  },
+  {
+    "id": "8a27a2c1-60ac-4250-8359-cff357fab60c",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:02:31.593Z",
+    "eventType": "Investigate",
+    "driverId": "lawson",
+    "detail": "Speeding limit validation checked at Pit entry box."
+  },
+  {
+    "id": "50342ba1-e64b-46af-904f-c81f22651698",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:02:31.593Z",
+    "eventType": "TrackLimit",
+    "driverId": "gasly",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "1504cebc-01b0-442a-881a-efb083111c0d",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:02:31.593Z",
+    "eventType": "Penalty",
+    "detail": "YELLOW FLAG IN SECTOR 2 - HAZARD REPORTED"
+  },
+  {
+    "id": "7255673a-58a7-416e-9eb4-19deb51b7027",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:02:43.651Z",
+    "eventType": "Investigate",
+    "driverId": "hadjar",
+    "detail": "Speeding limit validation checked at Pit entry box."
+  },
+  {
+    "id": "937ff173-8bd0-4308-9da4-2d01a39156f9",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:02:43.651Z",
+    "eventType": "TrackLimit",
+    "driverId": "piastri",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "ac809fab-2d2c-4c8d-9c01-a182c3b70ff5",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:02:55.689Z",
+    "eventType": "Investigate",
+    "driverId": "antonelli",
+    "detail": "Speeding limit validation checked at Pit entry box."
+  },
+  {
+    "id": "53e5500f-ae25-4bb6-b182-d41d45a2abb9",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:02:55.689Z",
+    "eventType": "Investigate",
+    "driverId": "leclerc",
+    "detail": "Speeding limit validation checked at Pit entry box."
+  },
+  {
+    "id": "794c32a1-6b8b-4d24-91ea-7ff201e8ebd7",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:02:55.689Z",
+    "eventType": "Penalty",
+    "detail": "YELLOW FLAG IN SECTOR 2 - HAZARD REPORTED"
+  },
+  {
+    "id": "4c57fe2d-735a-4222-8b03-c233f8ea28aa",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:03:07.735Z",
+    "eventType": "Investigate",
+    "driverId": "hamilton",
+    "detail": "Speeding limit validation checked at Pit entry box."
+  },
+  {
+    "id": "afb25553-a5eb-449e-9391-4466aee51a0e",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:03:07.735Z",
+    "eventType": "TrackLimit",
+    "driverId": "hadjar",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "86a53374-2551-4a44-aaf8-dc8a3467b67a",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:03:16.762Z",
+    "eventType": "Penalty",
+    "detail": "YELLOW FLAG IN SECTOR 2 - HAZARD REPORTED"
+  },
+  {
+    "id": "fd70ea4c-c60a-4cc9-ad6c-fe0821da75d6",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:03:19.765Z",
+    "eventType": "TrackLimit",
+    "driverId": "leclerc",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "8da12d59-d3ca-46aa-8acc-9ee6f3665372",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:03:31.837Z",
+    "eventType": "TrackLimit",
+    "driverId": "max_verstappen",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "49e03af7-d0d7-4cdb-8493-240b7ed33ade",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:03:33.344Z",
+    "eventType": "Penalty",
+    "detail": "VIRTUAL SAFETY CAR DEPLOYED (VSC)"
+  },
+  {
+    "id": "5ccb1602-643f-4378-8303-f8379216ae93",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:03:40.890Z",
+    "eventType": "Penalty",
+    "detail": "VIRTUAL SAFETY CAR DEPLOYED (VSC)"
+  },
+  {
+    "id": "febae762-8a1b-49b7-939d-f32e2fcde0e5",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:03:54.462Z",
+    "eventType": "Penalty",
+    "detail": "DOUBLE YELLOW IN SECTOR 1 - INCIDENT DETECTED"
+  },
+  {
+    "id": "345e1742-d717-43de-951f-a6f85eacc102",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:04:05.005Z",
+    "eventType": "Penalty",
+    "detail": "YELLOW FLAG IN SECTOR 2 - HAZARD REPORTED"
+  },
+  {
+    "id": "8530a350-bcdb-4e8b-b899-d05d9bd58ec7",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:04:08.023Z",
+    "eventType": "Investigate",
+    "driverId": "russell",
+    "detail": "Speeding limit validation checked at Pit entry box."
+  },
+  {
+    "id": "fc8bd9b1-e9c5-4789-aa10-258e45120396",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:04:08.023Z",
+    "eventType": "TrackLimit",
+    "driverId": "piastri",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "e4d05d34-2e2f-49cc-900c-bf49063f6829",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:04:12.544Z",
+    "eventType": "Penalty",
+    "detail": "YELLOW FLAG IN SECTOR 2 - HAZARD REPORTED"
+  },
+  {
+    "id": "ac3ff4ee-e8b4-4829-868a-3303d4b48eb9",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:04:17.054Z",
+    "eventType": "Crash",
+    "detail": "SAFETY CAR DEPLOYED (SC)"
+  },
+  {
+    "id": "3ca36e8c-4e32-4960-ac16-b43b5c2f825d",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:04:20.065Z",
+    "eventType": "TrackLimit",
+    "driverId": "piastri",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "0b217500-91c6-4692-b7e8-ca3f83a68b72",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:04:32.112Z",
+    "eventType": "TrackLimit",
+    "driverId": "norris",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "7791b073-22ea-44e7-a23d-14c938357b17",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:04:35.142Z",
+    "eventType": "Penalty",
+    "detail": "DOUBLE YELLOW IN SECTOR 1 - INCIDENT DETECTED"
+  },
+  {
+    "id": "2c259b3b-17c3-43d3-ba82-f164301ae8ed",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:04:41.166Z",
+    "eventType": "Crash",
+    "detail": "SAFETY CAR DEPLOYED (SC)"
+  },
+  {
+    "id": "1edc2262-62db-4277-bd89-13f9c4260fc9",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:04:59.213Z",
+    "eventType": "Penalty",
+    "detail": "YELLOW FLAG IN SECTOR 2 - HAZARD REPORTED"
+  },
+  {
+    "id": "cd2af29d-02a5-48ad-a065-5667b740c853",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:05:11.251Z",
+    "eventType": "Penalty",
+    "detail": "YELLOW FLAG IN SECTOR 2 - HAZARD REPORTED"
+  },
+  {
+    "id": "66b5ed1e-4f74-46a1-976e-28910032cb3b",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:05:12.758Z",
+    "eventType": "Penalty",
+    "detail": "YELLOW FLAG IN SECTOR 2 - HAZARD REPORTED"
+  },
+  {
+    "id": "60f52d79-ce76-4aa0-90d8-4961bf0756ad",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:05:32.338Z",
+    "eventType": "Investigate",
+    "driverId": "piastri",
+    "detail": "Speeding limit validation checked at Pit entry box."
+  },
+  {
+    "id": "b11f7f7b-bb1d-4f4a-9b59-8bd7ce18ed24",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:05:44.379Z",
+    "eventType": "Penalty",
+    "detail": "VIRTUAL SAFETY CAR DEPLOYED (VSC)"
+  },
+  {
+    "id": "ef69276e-5ffb-4bb2-a158-a571b2ecff42",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:05:54.924Z",
+    "eventType": "Penalty",
+    "detail": "YELLOW FLAG IN SECTOR 2 - HAZARD REPORTED"
+  },
+  {
+    "id": "03809e5e-8470-4d49-83b5-479221468b66",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:06:08.472Z",
+    "eventType": "TrackLimit",
+    "driverId": "piastri",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "a42f2bd6-96df-4a6d-bc13-611b39a7c4d2",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:06:16.015Z",
+    "eventType": "Penalty",
+    "detail": "VIRTUAL SAFETY CAR DEPLOYED (VSC)"
+  },
+  {
+    "id": "6ffad8f3-a574-4da5-aeea-af09c464bcb9",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:06:20.527Z",
+    "eventType": "Penalty",
+    "detail": "DOUBLE YELLOW IN SECTOR 1 - INCIDENT DETECTED"
+  },
+  {
+    "id": "2be5f179-0883-4538-bd83-414184abd6bb",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:06:32.566Z",
+    "eventType": "TrackLimit",
+    "driverId": "norris",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "79fbf5c5-e4d2-4d65-a9f1-c3fe018148a0",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:06:44.598Z",
+    "eventType": "TrackLimit",
+    "driverId": "leclerc",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "2add1bfc-c345-4fa8-b00c-bd12d2991e76",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:06:44.598Z",
+    "eventType": "Penalty",
+    "detail": "VIRTUAL SAFETY CAR DEPLOYED (VSC)"
+  },
+  {
+    "id": "ab1a7131-8877-4ae5-85b8-791d46d44507",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:06:49.127Z",
+    "eventType": "Penalty",
+    "detail": "YELLOW FLAG IN SECTOR 2 - HAZARD REPORTED"
+  },
+  {
+    "id": "e58f02ee-b291-4368-8e1a-1677e6911cd8",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:06:56.649Z",
+    "eventType": "TrackLimit",
+    "driverId": "antonelli",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "8d2a78bb-af32-4703-abd1-afbc02cb8140",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:07:19.240Z",
+    "eventType": "Penalty",
+    "detail": "DOUBLE YELLOW IN SECTOR 1 - INCIDENT DETECTED"
+  },
+  {
+    "id": "5d5bec39-c20d-4268-81e4-6970b2a7275c",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:07:22.252Z",
+    "eventType": "Penalty",
+    "detail": "DOUBLE YELLOW IN SECTOR 1 - INCIDENT DETECTED"
+  },
+  {
+    "id": "1f94abb0-8445-4965-b12e-b8240e0896ce",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:07:31.286Z",
+    "eventType": "Penalty",
+    "detail": "DOUBLE YELLOW IN SECTOR 1 - INCIDENT DETECTED"
+  },
+  {
+    "id": "58162f8d-1a2e-4cf7-a1bb-efa7efab1913",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:07:32.792Z",
+    "eventType": "Investigate",
+    "driverId": "max_verstappen",
+    "detail": "Speeding limit validation checked at Pit entry box."
+  },
+  {
+    "id": "776150c6-86bf-4a7c-b2de-2fa5c8c2fc04",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:07:32.792Z",
+    "eventType": "TrackLimit",
+    "driverId": "gasly",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "b6912e55-00a4-47c6-bb42-e1483b14ef8f",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:07:44.855Z",
+    "eventType": "TrackLimit",
+    "driverId": "russell",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "cf6625cd-4bdb-449c-9cf8-9bc32bbb8ce8",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:07:49.377Z",
+    "eventType": "Penalty",
+    "detail": "YELLOW FLAG IN SECTOR 2 - HAZARD REPORTED"
+  },
+  {
+    "id": "425d1849-3fac-4be2-8d51-0296fa9cbf6c",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:07:56.917Z",
+    "eventType": "TrackLimit",
+    "driverId": "hamilton",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "06212be8-caf5-4196-9f73-3b0306a41661",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:07:56.917Z",
+    "eventType": "Penalty",
+    "detail": "VIRTUAL SAFETY CAR DEPLOYED (VSC)"
+  },
+  {
+    "id": "2da9b567-bbc4-40a4-a2d2-978de5ee54c9",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:08:02.942Z",
+    "eventType": "Penalty",
+    "detail": "DOUBLE YELLOW IN SECTOR 1 - INCIDENT DETECTED"
+  },
+  {
+    "id": "99b693a1-4bc1-4ed0-994e-9dbf4ea01c94",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:08:08.967Z",
+    "eventType": "TrackLimit",
+    "driverId": "norris",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "7582917f-7ef4-496c-b480-a5c7b76936af",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:08:21.019Z",
+    "eventType": "TrackLimit",
+    "driverId": "norris",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "0f01ced6-4d8d-4045-8dff-d826fe6b5500",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:08:40.604Z",
+    "eventType": "Crash",
+    "detail": "SAFETY CAR DEPLOYED (SC)"
+  },
+  {
+    "id": "c1325cc6-528e-43f4-be31-6d65d01a3591",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:08:45.122Z",
+    "eventType": "TrackLimit",
+    "driverId": "gasly",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "3291debb-1c8b-45a7-8d63-a7881ea38c32",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:08:49.636Z",
+    "eventType": "Penalty",
+    "detail": "YELLOW FLAG IN SECTOR 2 - HAZARD REPORTED"
+  },
+  {
+    "id": "13b2b5c5-83d9-405b-ae5a-a6caec1f99d1",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:08:57.165Z",
+    "eventType": "TrackLimit",
+    "driverId": "leclerc",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "8395a399-3aee-4947-90ba-67f745d36df8",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:09:21.259Z",
+    "eventType": "TrackLimit",
+    "driverId": "gasly",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "6ef06be1-5f69-4f3d-b31e-a44241de45be",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:09:39.311Z",
+    "eventType": "Penalty",
+    "detail": "YELLOW FLAG IN SECTOR 2 - HAZARD REPORTED"
+  },
+  {
+    "id": "e92b0772-db35-4d5f-ba04-8127cf36cade",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:09:42.319Z",
+    "eventType": "Penalty",
+    "detail": "DOUBLE YELLOW IN SECTOR 1 - INCIDENT DETECTED"
+  },
+  {
+    "id": "1c041a2d-94cf-42b0-9c7c-2a5bbd54afe1",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:09:46.830Z",
+    "eventType": "Crash",
+    "detail": "SAFETY CAR DEPLOYED (SC)"
+  },
+  {
+    "id": "0e03d147-e2fe-4d56-9b22-89abf459cfbe",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:09:57.362Z",
+    "eventType": "TrackLimit",
+    "driverId": "hamilton",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "5a1d9243-ed19-481d-b082-26e77fd692d5",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:10:09.406Z",
+    "eventType": "TrackLimit",
+    "driverId": "leclerc",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "4a863734-4089-4296-ae31-384f58bd5167",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:10:21.456Z",
+    "eventType": "TrackLimit",
+    "driverId": "lawson",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "e80cd70e-fb3e-4952-b7c0-e747381d2f23",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:10:25.975Z",
+    "eventType": "Penalty",
+    "detail": "DOUBLE YELLOW IN SECTOR 1 - INCIDENT DETECTED"
+  },
+  {
+    "id": "81f7f73c-6aef-4ef1-8ddd-9eeec18ffc4c",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:10:28.996Z",
+    "eventType": "Penalty",
+    "detail": "VIRTUAL SAFETY CAR DEPLOYED (VSC)"
+  },
+  {
+    "id": "352ecf9f-6942-414c-88df-24229af2810e",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:10:33.516Z",
+    "eventType": "TrackLimit",
+    "driverId": "hamilton",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "303c1879-1f59-4a8c-b475-97e527dd2fe8",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:10:36.520Z",
+    "eventType": "Crash",
+    "detail": "SAFETY CAR DEPLOYED (SC)"
+  },
+  {
+    "id": "d3481e08-4f88-42a0-b596-e98c27a086a2",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:10:38.027Z",
+    "eventType": "Penalty",
+    "detail": "VIRTUAL SAFETY CAR DEPLOYED (VSC)"
+  },
+  {
+    "id": "b5ad84d7-c91d-40b5-b211-35c86a9308d0",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:10:39.532Z",
+    "eventType": "Penalty",
+    "detail": "DOUBLE YELLOW IN SECTOR 1 - INCIDENT DETECTED"
+  },
+  {
+    "id": "e32a502e-f5ba-44c5-a814-fd02ad0bbbcb",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:10:42.540Z",
+    "eventType": "Crash",
+    "detail": "SAFETY CAR DEPLOYED (SC)"
+  },
+  {
+    "id": "69be009a-ad60-44a9-81ae-1ba2226f7368",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:10:45.552Z",
+    "eventType": "TrackLimit",
+    "driverId": "piastri",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "b290c6c1-0975-48a1-9d53-390b2422e8f8",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:10:57.589Z",
+    "eventType": "TrackLimit",
+    "driverId": "hadjar",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "24a662dd-8ce8-4d9f-be66-ac6dea06b964",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:11:11.144Z",
+    "eventType": "Penalty",
+    "detail": "YELLOW FLAG IN SECTOR 2 - HAZARD REPORTED"
+  },
+  {
+    "id": "7aad5570-358a-4ec7-a021-3e3e3da10339",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:11:45.761Z",
+    "eventType": "TrackLimit",
+    "driverId": "max_verstappen",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "b1076593-c8a8-4259-b556-268664a34823",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:11:54.791Z",
+    "eventType": "Penalty",
+    "detail": "VIRTUAL SAFETY CAR DEPLOYED (VSC)"
+  },
+  {
+    "id": "21a7cce1-a7a0-4bd1-b65d-765f2d0746c2",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:11:57.802Z",
+    "eventType": "TrackLimit",
+    "driverId": "gasly",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "adca4fe2-fb06-462c-bb06-3defe51b8dfa",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:11:57.802Z",
+    "eventType": "Penalty",
+    "detail": "DOUBLE YELLOW IN SECTOR 1 - INCIDENT DETECTED"
+  },
+  {
+    "id": "9ff15ca8-f640-4e7a-b647-423225e1d6db",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:11:59.305Z",
+    "eventType": "Crash",
+    "detail": "SAFETY CAR DEPLOYED (SC)"
+  },
+  {
+    "id": "5985ad01-79a4-4678-8643-2f9f3f913a33",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:12:21.905Z",
+    "eventType": "TrackLimit",
+    "driverId": "piastri",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "10f2cf04-4725-4b2f-bf0b-ea313cc7701a",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:12:26.421Z",
+    "eventType": "Penalty",
+    "detail": "YELLOW FLAG IN SECTOR 2 - HAZARD REPORTED"
+  },
+  {
+    "id": "f8656466-87c3-4825-aa99-3bea7c73290b",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:12:33.941Z",
+    "eventType": "TrackLimit",
+    "driverId": "hamilton",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "bd8f6de8-c8c4-4682-8285-1965c53cc994",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:13:01.051Z",
+    "eventType": "Crash",
+    "detail": "SAFETY CAR DEPLOYED (SC)"
+  },
+  {
+    "id": "de8a2a78-4948-44fa-879c-c3670a2ed052",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:13:07.076Z",
+    "eventType": "Penalty",
+    "detail": "VIRTUAL SAFETY CAR DEPLOYED (VSC)"
+  },
+  {
+    "id": "4a6044fa-97d0-4a73-a52c-edcf0c6dd976",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:13:08.587Z",
+    "eventType": "Penalty",
+    "detail": "YELLOW FLAG IN SECTOR 2 - HAZARD REPORTED"
+  },
+  {
+    "id": "bf771405-979e-44df-bc95-57d47c47b422",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:13:10.087Z",
+    "eventType": "TrackLimit",
+    "driverId": "max_verstappen",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "49c9b481-21d7-47fa-91d8-12af83d5a45f",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:13:16.107Z",
+    "eventType": "Penalty",
+    "detail": "DOUBLE YELLOW IN SECTOR 1 - INCIDENT DETECTED"
+  },
+  {
+    "id": "8a4ea763-b5e3-4798-9a62-ef99fd9a8ede",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:13:22.141Z",
+    "eventType": "TrackLimit",
+    "driverId": "norris",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "6b907e47-bec8-4adb-be82-4c88350a618d",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:13:34.182Z",
+    "eventType": "TrackLimit",
+    "driverId": "russell",
+    "detail": "Incredible overtake executed successfully."
+  },
+  {
+    "id": "a8d2c0ec-51c1-4c7d-8002-c1c2290f1816",
+    "sessionKey": "2432",
+    "timestamp": "2026-06-14T13:13:50.725Z",
+    "eventType": "Penalty",
+    "detail": "YELLOW FLAG IN SECTOR 2 - HAZARD REPORTED"
   }
 ]

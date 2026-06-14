@@ -10,8 +10,6 @@ import ConstructorStandings from './components/ConstructorStandings';
 import RaceCalendar from './components/RaceCalendar';
 import RaceWeekendDetails from './components/RaceWeekendDetails';
 
-import LiveRaceCenter from './components/LiveRaceCenter';
-import Simulator from './components/Simulator';
 import DriverTelemetry from './components/DriverTelemetry';
 import SessionAnalytics from './components/SessionAnalytics';
 import AiDashboard from './components/AiDashboard';
@@ -199,8 +197,6 @@ export default function App() {
     { path: '/drivers', label: 'Drivers', prefix: '/drivers' },
     { path: '/constructors', label: 'Constructors', prefix: '/constructors' },
     { path: '/calendar', label: 'Calendar', prefix: '/calendar' },
-    { path: '/live-race', label: 'Live Race', prefix: '/live-race', isLive: true },
-    { path: '/simulator', label: 'Simulator', prefix: '/simulator', isSimulator: true },
     { path: '/telemetry', label: 'Telemetry', prefix: '/telemetry' },
     { path: '/analytics', label: 'Analytics', prefix: '/analytics' },
     { path: '/ai-dashboard', label: 'AI Intelligence', prefix: '/ai-dashboard', isAi: true },
@@ -454,32 +450,7 @@ export default function App() {
                     </motion.div>
                   }
                 />
-                <Route
-                  path="/live-race"
-                  element={
-                    <motion.div
-                      initial={{ opacity: 0, y: 15 }}
-                      animate={{ opacity: 1, y: 0 }}
-                      exit={{ opacity: 0, y: -15 }}
-                      transition={{ duration: 0.2, ease: 'easeOut' }}
-                    >
-                      <LiveRaceCenter />
-                    </motion.div>
-                  }
-                />
-                <Route
-                  path="/simulator"
-                  element={
-                    <motion.div
-                      initial={{ opacity: 0, y: 15 }}
-                      animate={{ opacity: 1, y: 0 }}
-                      exit={{ opacity: 0, y: -15 }}
-                      transition={{ duration: 0.2, ease: 'easeOut' }}
-                    >
-                      <Simulator />
-                    </motion.div>
-                  }
-                />
+
                 <Route
                   path="/telemetry"
                   element={

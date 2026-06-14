@@ -29,16 +29,7 @@
 - Shows real-time dynamic countdown to the next Grand Prix.
 - Displays details of the upcoming race track, round, and recent race podium finishers.
 
-### 2. High-Fidelity Race Simulator
-- Located on a dedicated, unrestricted page ([Simulator.tsx](file:///d:/Projects/race-tech-fusion/src/components/Simulator.tsx)).
-- Streams real-time timing telemetry for 20 cars simultaneously over high-performance WebSockets.
-- Simulates realistic pit stop events, tire compound choices (Soft, Medium, Hard), and stint-length penalties.
-- Features dynamic weather variations (air/track temperatures, humidity, wind speeds, rain triggers) and automatic yellow flags, double yellow flags, virtual safety cars (VSC), and red flag events triggered by stochastic incident checks.
 
-### 3. Real-Time Live Timing Center
-- Located at [LiveRaceCenter.tsx](file:///d:/Projects/race-tech-fusion/src/components/LiveRaceCenter.tsx).
-- When a live Formula 1 session is active (Practice, Qualifying, Sprint, or GP), it ingests and displays real-time sector-by-sector timing intervals directly from trackside loops.
-- Inactive state locking: When no live F1 event is occurring, it displays a premium countdown module showing exactly when the next live timing broadcast begins.
 
 ### 4. Interactive Driver Telemetry Platform
 - Compares multiple drivers side-by-side using real-time graphs for Speed (km/h), Throttle (0-100%), Brake pressure, Gear distribution, Engine RPM, and DRS activation.
@@ -173,8 +164,6 @@ To navigate directly to key system components, use the following clickable links
 - **REST Presentation Gateway**: [F1ApiRouter.ts](file:///d:/Projects/race-tech-fusion/src/backend/presentation/F1ApiRouter.ts)
 - **User Interface Components**:
   - [AiDashboard.tsx](file:///d:/Projects/race-tech-fusion/src/components/AiDashboard.tsx) — Predictions, Simulations, and MLOps Controller
-  - [Simulator.tsx](file:///d:/Projects/race-tech-fusion/src/components/Simulator.tsx) — WebSocket Timing Feed Board
-  - [LiveRaceCenter.tsx](file:///d:/Projects/race-tech-fusion/src/components/LiveRaceCenter.tsx) — Real-Time Timing Console
   - [DriverTelemetry.tsx](file:///d:/Projects/race-tech-fusion/src/components/DriverTelemetry.tsx) — Interactive Canvas Track Map telemetry
   - [SessionAnalytics.tsx](file:///d:/Projects/race-tech-fusion/src/components/SessionAnalytics.tsx) — Speed Trap and Pit Stop charts
   - [RaceWeekendDetails.tsx](file:///d:/Projects/race-tech-fusion/src/components/RaceWeekendDetails.tsx) — Circuit layout profile details

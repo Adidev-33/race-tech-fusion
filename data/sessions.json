@@ -52,5 +52,14 @@
     "sessionType": "Race",
     "status": "active",
     "date": "2026-06-10"
+  },
+  {
+    "id": "b80d31aa-4ae8-4191-8b87-57e0208bd38b",
+    "raceId": "2026-7",
+    "sessionKey": "2432",
+    "name": "Grand Prix Race Operations",
+    "sessionType": "Race",
+    "status": "active",
+    "date": "2026-06-14"
   }
 ]

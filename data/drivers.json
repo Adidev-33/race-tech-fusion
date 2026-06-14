@@ -223,5 +223,40 @@
     "familyName": "Verstappen",
     "dateOfBirth": "1997-09-30",
     "nationality": "Dutch"
+  },
+  {
+    "driverId": "paul_aron",
+    "givenName": "Paul",
+    "familyName": "Aron"
+  },
+  {
+    "driverId": "dino_beganovic",
+    "givenName": "Dino",
+    "familyName": "Beganovic"
+  },
+  {
+    "driverId": "luke_browning",
+    "givenName": "Luke",
+    "familyName": "Browning"
+  },
+  {
+    "driverId": "leonardo_fornaroli",
+    "givenName": "Leonardo",
+    "familyName": "Fornaroli"
+  },
+  {
+    "driverId": "colton_herta",
+    "givenName": "Colton",
+    "familyName": "Herta"
+  },
+  {
+    "driverId": "ayumu_iwasa",
+    "givenName": "Ayumu",
+    "familyName": "Iwasa"
+  },
+  {
+    "driverId": "frederik_vesti",
+    "givenName": "Frederik",
+    "familyName": "Vesti"
   }
 ]
